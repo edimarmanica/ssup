@@ -12,7 +12,7 @@
 
 # Demo version
 
-Please send an e-mail to edimar.manica at ibiruba.ifrs.edu.br asking a demo version of **SSUP** and providing some information: name, affiliation and goal.
+Please send an e-mail to edimar.manica at ibiruba.ifrs.edu.br asking a demo version of **SSUP** and providing the following information: name, affiliation and goal.
 
 # Datasets
 
