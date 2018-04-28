@@ -4,7 +4,7 @@
 
 # Concepts
 
-- **entity-page**: a page that describes an entity of a specific type. For example, the page that describes Fernando Alonso in the Formula 1 official website.
+- **entity-page**: a page that describes an entity of a specific type. For example, the page that describes Fernando Alonso (driver) in the Formula 1 official website.
 
 - **entity-page discovery**: the task of discovery entity-pages in the websites.
 
