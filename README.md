@@ -9,3 +9,12 @@
 - **entity-page discovery**: the task of discovery entity-pages in the websites.
 
 - **SSUP**: a method we proposed for entity-page discovery.
+
+# Demo version
+
+Please send an e-mail to edimar.manica at ibiruba.ifrs.edu.br asking a demo version of SSUP and providing your goal.
+
+# Datasets
+
+
+# References
