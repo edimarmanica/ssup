@@ -16,7 +16,7 @@ Please send an e-mail to edimar.manica at ibiruba.ifrs.edu.br asking a demo vers
 
 # Datasets
 
-The evaluation was carried out over 38 real-world websites. For each website sx: (i) the set of pages in the sx website were collected; (ii) an entity type ty (e.g. driver in a website about a car racing championship) was defined; and (iii) the ground truth (the set of entity-pages of the ty type that are in the sx website) was obtained through hand-crafted rules. These websites were grouped into three datasets:
+The evaluation was carried out over 38 real-world websites. For each website *sx*: (i) the set of pages in the *sx* website were collected; (ii) an entity type *ty* (e.g. driver in a website about a car racing championship) was defined; and (iii) the ground truth (the set of entity-pages of the *ty* type that are in the *sx* website) was obtained through hand-crafted rules. These websites were grouped into three datasets:
 
 - **Multiple types** - comprises 10 websites with entity-pages of different types;
 
