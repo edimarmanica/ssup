@@ -27,6 +27,7 @@ The evaluation was carried out over 38 real-world websites. For each website *sx
 ## References
 
 ## Contact
-- Name: Dr. Edimar Manica
+- Name: Edimar Manica
+- Title: Dr.
 - Affiliation: IFRS
 - E-mail: edimar.manica at ibiruba.ifrs.edu.br
