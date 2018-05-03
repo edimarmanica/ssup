@@ -25,3 +25,8 @@ The evaluation was carried out over 38 real-world websites. For each website *sx
 - **Council members** - has 18 websites with entity-pages about council members. The official websites of the city council of the 26 Brazilian State capitals were analyzed. We excluded four websites because they did not have an entity-page for each council member, three websites because all the entity-pages were internal frames of a single page, and one website because it did not allow crawling its pages. Links: [Web pages](https://mega.nz/#!dAkDRSYY!y12Vvd_M-_kXwRPMaqH5bWAT6wWZ1edS6M2Y0dOGWjk) | [Ground-truth](ground-truth/dataset_c).
 
 ## References
+
+## Contact
+- Name: Dr. Edimar Manica
+- Affiliation: IFRS
+- E-mail: edimar.manica at ibiruba.ifrs.edu.br
